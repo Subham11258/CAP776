@@ -1,0 +1,5 @@
+String1 = input("Enter a string: ")
+print(String1)
+sample = String1.lower()
+count = String1.count("a")
+print(count)
